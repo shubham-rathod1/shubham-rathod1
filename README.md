@@ -2,9 +2,9 @@
 I am Shubham Rathod
 
 :atom: I am a Aspiring Full stack Developer<br/>
-:seedling: I’m currently learning MERN Stack
-:space_invader: I’m a Full Stack Development Fellow at Masai School.
-:telescope: Other interests
+:seedling: I’m currently learning MERN Stack<br />
+:space_invader: I’m a Full Stack Development Fellow at Masai School.<br /><br />
+:telescope: <b>Other interests</b><br />
 :video_game: Gamer
 
 mailbox How can you reach me?
