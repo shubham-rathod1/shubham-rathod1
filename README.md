@@ -3,9 +3,9 @@ I am Shubham Rathod
 
 :atom: I am a Aspiring Full stack Developer<br/>
 :seedling: I’m currently learning MERN Stack
-space_invader I’m a Full Stack Development Fellow at Masai School.
-telescope Other interests
-I like solving Sudoku.
+:space_invader: I’m a Full Stack Development Fellow at Masai School.
+:telescope: Other interests
+:video_game: Gamer
 
 mailbox How can you reach me?
 Connect with me on Twitter or LinkedIn.
