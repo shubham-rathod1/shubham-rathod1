@@ -7,8 +7,8 @@ I am Shubham Rathod
 :telescope: <b>Other interests</b><br />
 :video_game: Gamer
 
-mailbox How can you reach me?
-Connect with me on Twitter or LinkedIn.
+:mailbox: How can you reach me?
+Connect with me on <a href:"https://twitter.com">Email</a> or <a href:"https://www.linkedin.com/in/shubham-rathod-297176181/">LinkedIn.</a>
 
 zap My Github Stats
 GitHub stats
