@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Shubham Rathod
 
-:atom: I am a Aspiring Full stack Developer
+:atom: I am a Aspiring Full stack Developer<br/>
 :seedling: I’m currently learning MERN Stack
 space_invader I’m a Full Stack Development Fellow at Masai School.
 telescope Other interests
