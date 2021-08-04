@@ -11,7 +11,7 @@
 
 <h4>:mailbox: How can you reach me?</h4>
 Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-rathod-297176181/)<br /><br />
-Portfolio Link : shubhamrathod.com
+Portfolio Link : <a href="https://shubhamrathod.com">shubhamrathod.com</a>
 <br /><br />
 <h2>:zap: <b>My Github Stats</b></h2>
 
