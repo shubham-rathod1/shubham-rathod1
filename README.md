@@ -18,6 +18,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-rathod-2971761
 
 
 [![Shubhams's github stats](https://github-readme-stats.vercel.app/api?username=shubham-rathod1)](https://github.com/shubham-rathod1/github-readme-stats)
+
 Portfolio Link : shubhamrathod.com
 
 <h4>⚡ Fun fact: The first computer virus was a Creeper</h4>
