@@ -2,7 +2,7 @@
 <h1>I am Shubham Rathod</h1>
 
 :atom: I am a Full stack Developer<br/>
-- :seedling: I’m currently learning MERN Stack<br />
+- :seedling: I’m currently working on MERN Stack<br />
 - :space_invader: I’m a Full Stack Development Fellow at Masai School.<br />
 - 👯 I’m looking to contribute on any creative MERN stack project big or small...<br /><br />
 
