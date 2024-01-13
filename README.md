@@ -2,9 +2,9 @@
 <h1>I am Shubham Rathod</h1>
 
 :atom: I am a Full stack Block-Chain Developer<br/>
-- :seedling: I’m currently working in DEFI ecosystem<br />
-- :space_invader: I’m a Block chain Enthusiast.<br />
-- 👯 I’m looking to contribute on any creative MERN stack project big or small...<br /><br />
+- :seedling: I’m currently working in the DEFI ecosystem<br />
+- :space_invader: I’m a Blockchain Enthusiast.<br />
+- 👯 I’m looking to contribute to any creative DEFI project big or small...<br /><br />
 
 <h4>:telescope: Other interests</h4><br />
 - :video_game: Gamer
