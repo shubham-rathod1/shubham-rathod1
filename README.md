@@ -10,6 +10,12 @@
 - :video_game: Gamer
 
 <h4>:mailbox: How can you reach me?</h4>
+
+Resume Here:- 
+  <a href="https://drive.google.com/file/d/1xMrzeXX-dfzPwyjbn1xOS9-uLJOTnuBK/view?usp=drive_link">
+    Download CV
+  </a>
+<br /><br/>
 Connect with me Here:-
 Portfolio Link : <a target="_blank" href="https://shubhamrathod.com">shubhamrathod.com</a>
 <br /><br />
