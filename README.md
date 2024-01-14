@@ -12,7 +12,7 @@
 <h4>:mailbox: How can you reach me?</h4>
 
 Resume Here:- 
-  <a href="https://drive.google.com/file/d/1xMrzeXX-dfzPwyjbn1xOS9-uLJOTnuBK/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1JrikHewQ3EC6MqEKaco84eo5zt965V-f/view?usp=drive_link">
     Download CV
   </a>
 <br /><br/>
