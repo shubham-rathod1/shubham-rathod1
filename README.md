@@ -17,7 +17,7 @@ Resume Here:-
   </a>
 <br /><br/>
 Connect with me Here:-
-Portfolio Link : <a target="_blank" href="https://shubhamrathod.com">shubhamrathod.com</a>
+Portfolio Link : <a target="_blank" href="https://shubhamrathod.dev">shubhamrathod.dev</a>
 <br /><br />
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
