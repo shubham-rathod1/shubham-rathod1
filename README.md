@@ -38,7 +38,7 @@
 
 ### 📫 Reach Me
 
-- 📄 [View My Resume](https://drive.google.com/file/d/1JrikHewQ3EC6MqEKaco84eo5zt965V-f/view?usp=drive_link)
+- 📄 [View My Resume]([https://drive.google.com/file/d/1JrikHewQ3EC6MqEKaco84eo5zt965V-f/view?usp=drive_link](https://drive.google.com/file/d/17gD8QE1xuKbqTMMFL2ZKbFbFf5SH6YYv/view))
 - 🌐 [Portfolio](https://shubhamrathod.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/shubham-rathod-297176181/)
 
