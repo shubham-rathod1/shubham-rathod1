@@ -47,7 +47,6 @@
 ### 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=shubham-rathod1&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubham-rathod1&show_icons=true&count_private=true)
 
 ---
 
